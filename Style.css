@@ -1,0 +1,19 @@
+.heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+  }
+  #a{
+    text-align: center;
+  }
+  #q{
+    border-radius: 30px;
+    height: 200;
+  }
+  body{
+    background-color: darkgray;
+  }
+  #l{
+    background-color: gray;
+  }
